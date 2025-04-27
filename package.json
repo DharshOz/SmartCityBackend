@@ -20,6 +20,7 @@
     "ml-regression": "^6.2.0",
     "mljs": "^8.0.9",
     "mongoose": "^8.13.2",
+    "mqtt": "^5.11.1",
     "nodemailer": "^6.10.1",
     "random-forest": "^0.0.7",
     "socket.io": "^4.8.1",
