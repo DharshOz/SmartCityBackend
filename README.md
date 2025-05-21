@@ -15,7 +15,7 @@ MY MODILE APPLICATION CAN RUN PROPERLY WITHOUT ANY ADDITIONAL INSTALLATION"
 
 IOT:
 
-https://github.com/DharshOz/SmartCityBackend/issues/
+https://github.com/DharshOz/SmartCityBackend/issues/1
 
 
 FULL PROJECT:
