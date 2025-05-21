@@ -13,3 +13,11 @@ MY MODILE APPLICATION CAN RUN PROPERLY WITHOUT ANY ADDITIONAL INSTALLATION"
 
 **HERE IS THE DEMO VIDEO OF MY PROJECT**
 
+IOT:
+
+https://github.com/DharshOz/SmartCityBackend/issues/1
+
+
+FULL PROJECT:
+
+https://drive.google.com/file/d/12WH5_8zEGbC4X5nETJLNGQRXErX8JUqk/view?usp=drive_link
